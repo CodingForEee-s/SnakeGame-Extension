@@ -1,0 +1,16 @@
+{
+    "name": "Snake Game",
+    "version": "0.1",
+    "description": "Bored? play the snake game intrgrated in the extension and be brought back to the old days of snake.",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_popup": "index.html",
+      "default_tittle": "Snake Game",
+      "default_icon": 
+      {
+        "16": "logo.png"
+      }
+    }
+  }
+
+  
